@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(to top, #4b5434, #476a4f, #407f73, #42929c, #5ea2c2, #55add4, #46b8e6, #2fc3f9, #00cee9, #00d4bc, #00d579, #89ce23)fixed;
+  background-repeat: no-repeat;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+  padding: 20px;
+  margin: 15px;
+  font-weight: bold;
+
+}
