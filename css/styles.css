@@ -14,3 +14,7 @@ h1 {
   font-weight: bold;
 
 }
+
+#verystressed0, #verystressed1, #verystressed2 {
+  display: none;
+}
